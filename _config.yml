@@ -1,4 +1,3 @@
-
 title: coyote bryant
 description: >- # this means to ignore newlines until "baseurl:"
   coyotebryant.me
@@ -6,16 +5,44 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://coyotebryant.me" # the base hostname & protocol for your site, e.g. http://example.com
 domain: coyotebryant.me
 
+#theme: cvless
+remote_theme: piazzai/cvless
+
+# site settings
+taglong: Coyote's beautiful online CV
+tagshort: coyotebryant.me
+cv: true
+
 # author settings
 author: coyote
-name: Coyote Bryant
-email: coyote@pm.me
+  name: Coyote Bryant
+  email: coyote@pm.me
 photo: assets/files/photo.jpg
 address: Portland, OR
 phone: email or DM me
 
-# Build settings
-remote_theme: cvless
+# profile links
+  profile:
+  facebook: 
+  x: 
+  mastodon: 
+  bluesky: 
+  instagram: 
+  linkedin: https://www.linkedin.com/in/coyotebryant
+  xing: 
+  stackoverflow: 
+  medium: 
+  github: 
+	  
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+  - docker-compose.yml
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -23,21 +50,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-# profile links
-profile:
-    facebook: 
-    x: 
-    mastodon: 
-    bluesky: 
-    instagram: 
-    linkedin: https://www.linkedin.com/in/coyotebryant
-    xing: 
-    stackoverflow: 
-    medium: 
-    github:
-
 sass:
   sourcemap: never
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
