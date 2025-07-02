@@ -17,6 +17,8 @@ phone: email or DM me
 # Build settings
 remote_theme: cvless
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   
 # profile links
 profile:
