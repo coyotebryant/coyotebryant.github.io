@@ -1,8 +1,7 @@
-title: coyote bryant
-description: >- # this means to ignore newlines until "baseurl:"
-  coyotebryant.me
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://coyotebryant.me" # the base hostname & protocol for your site, e.g. http://example.com
+title: Coyote Bryant
+description:
+baseurl: ""
+url: https://coyotebryant.me
 domain: coyotebryant.me
 
 #theme: cvless
