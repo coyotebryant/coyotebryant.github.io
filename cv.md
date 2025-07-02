@@ -39,3 +39,6 @@ Expert in cloud architecture, identity management, and strategic vendor negotiat
 
 * 🍎 JAMF Certified Associate
 * 🍎 Apple Certified Support Professional
+
+Click [here](assets/files/cv.pdf) to view or download a detailed, printable version. 
+
