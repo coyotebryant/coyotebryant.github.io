@@ -6,8 +6,9 @@ title: Home
 # Welcome!
 
 
-Hello and thanks for stopping by! Please [Click here](cv) to see a summary of my CV, and [click here](assets/files/cv.pdf) to download a full print version. 
+Hello there, and thanks for stopping by!
 
-Also, while you're here, check out my blog: [click here](posts) to scroll posts from the most recent.
+Please [Click here](cv) to see a summary of my CV, and [here](assets/files/cv.pdf) to view or download a detailed, printable version. 
+
 
 
