@@ -7,15 +7,30 @@ title: CV
 
 {% include contact.html %}
 
-## Section
+## 🍎 Professional Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Results-driven IT Systems Manager with ten years of progressive experience in enterprise IT infrastructure, cybersecurity, and team leadership. Proven track record of leading organization-wide IT initiatives and remote hardware deployments, implementing robust security frameworks, and reducing operational costs by over 30%. Expert in cloud architecture, identity management, and strategic vendor negotiations. Skilled at managing IT infrastructure, org-wide support needs, regulatory compliance and SLAs.
+🛠️ Technical Skills:
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+* ☁️ Cloud & Infrastructure Deployments
+* ⚙️ Systems Administration
+* 🔒 Security & Identity Management
+* 🌐 World-class User Support
 
-### Subsection
+## 💼 Experience
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* LANGUAGESTAT - IT Systems & Security Administrator (Mar 2024 - Present)
+* SEESAW LEARNING - IT Support Manager (Aug 2022 - Mar 2024)
+* EMERSON COLLECTIVE - IT Support Technician (Jul 2018 - Jan 2021)
+* ATLASSIAN SOFTWARE - IT Systems Administrator (Feb 2015 - Apr 2017)
+
+(* employment gaps are travel-related)
+
+## 🎓 Education
+
+* PORTLAND STATE UNIVERSITY - Bachelor of Sciences, Communications Technology
+
+### certifications
+
+* 🍎 JAMF Certified Associate
+* 🍎 Apple Certified Support Professional
