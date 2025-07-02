@@ -25,11 +25,11 @@ Expert in cloud architecture, identity management, and strategic vendor negotiat
 
 ## 💼 Experience
 
-* LANGUAGESTAT - IT Systems & Security Administrator (Mar 2024 - Present)
-* SEESAW LEARNING - IT Support Manager (Aug 2022 - Mar 2024)
-* EMERSON COLLECTIVE - IT Support Technician (Jul 2018 - Jan 2021)
-* ATLASSIAN SOFTWARE - IT Systems Administrator (Feb 2015 - Apr 2017)
-( *employment gaps are travel-related )
+* LANGUAGESTAT - IT Systems & Security Administrator <br>(Mar 2024 - Present)
+* SEESAW LEARNING - IT Support Manager <br>(Aug 2022 - Mar 2024)
+* EMERSON COLLECTIVE - IT Support Technician <br>(Jul 2018 - Jan 2021)
+* ATLASSIAN SOFTWARE - IT Systems Administrator <br>(Feb 2015 - Apr 2017)
+<p>( *employment gaps are travel-related )		
 
 ## 🎓 Education
 
