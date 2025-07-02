@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.4.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+source "https://rubygems.org"
 gem 'cvless', '~> 2.6'
 gem 'erb', '~> 4.0', '>= 4.0.4'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
