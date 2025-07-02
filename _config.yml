@@ -27,8 +27,8 @@ domain: coyotebryant.me
 
 # author settings
 author: coyote
-  name: Coyote Bryant
-  email: coyote@pm.me
+name: Coyote Bryant
+email: coyote@pm.me
 photo: assets/files/photo.jpg
 address: Portland, OR
 phone: email or DM me
@@ -42,8 +42,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-  # profile links
-    profile:
+# profile links
+profile:
     facebook: 
     x: 
     mastodon: 
