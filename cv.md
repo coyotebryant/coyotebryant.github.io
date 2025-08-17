@@ -19,8 +19,11 @@ Expert in cloud architecture, identity management, and strategic vendor negotiat
 # 🛠️  Technical Skills:
 
 * ☁️ Cloud & Infrastructure Deployments
+	- SSO | MDM | SAML | AWS | JIRA
 * ⚙️ Systems Administration
+	- Google Workspace | O365 | Slack | Adobe Suite | 1Password
 * 🔒 Security & Identity Management
+	- Okta | AWS | Azure | Active Directory
 * 🌐 World-class User Support
 
 # 💼  Experience
