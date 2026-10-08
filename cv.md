@@ -40,7 +40,7 @@ Expert in cloud architecture, identity management, and strategic vendor negotiat
 * SEESAW LEARNING - IT Support Manager <br><i>Aug 2022 - Mar 2024</i>
 * EMERSON COLLECTIVE - IT Support Technician <br><i>Jul 2018 - Jan 2021</i>
 * ATLASSIAN SOFTWARE - IT Systems Administrator <br><i>Feb 2015 - Apr 2017</i>
-<br><br>( *employment gaps are travel-related )		
+<br><br>( *all gaps in employment are travel-related )		
 
 # 🎓  Education
 
